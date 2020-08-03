@@ -1,0 +1,9 @@
+﻿/Packages/
+/Packages/manifest.json
+/.idea/
+/Library/
+/Logs/
+/Temp/
+/ProjectSettings/
+/obj/
+/Assembly-CSharp.csproj
